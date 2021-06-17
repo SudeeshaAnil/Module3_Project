@@ -1,0 +1,39 @@
+h1{
+    font-weight: bold;
+    color: blue;
+}
+body{
+background-color: hotpink;
+}
+#fname
+{
+font-size: 15px;
+height: 35px;
+}
+#lname
+{
+font-size: 15px;
+height: 35px;
+}
+#email
+{
+font-size: 15px;
+height: 35px;
+}
+#mobile
+{
+font-size: 15px;
+height: 35px;
+}
+#submit
+{
+ height: 40px;
+ width: 100px;
+ font-weight: bold;
+ font-size:20px ;
+ color: mediumblue;
+ text-align: center;
+ margin-left:250px ;
+}
+
+
